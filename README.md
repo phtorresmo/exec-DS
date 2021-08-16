@@ -1,2 +1,2 @@
 # exec-DS
-Exercícios da matéria DS_POOJava - Bentão - 
+Exercícios da matéria DS_POOJava - Bentão
